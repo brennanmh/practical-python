@@ -1,4 +1,4 @@
-#!/home/brennan/Dev/courses/practical-python/Work/bin/python3
+#!/home/brennan/Dev/PythonEnvs/practical-python/bin/python3
 # vim:fileencoding=utf-8:noet
 from __future__ import (unicode_literals, division, absolute_import, print_function)
 
